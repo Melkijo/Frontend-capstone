@@ -1,3 +1,4 @@
 # Frontend
 my first collaboration project 🤖 <br>
-live demo : https://main--melodious-genie-0706de.netlify.app/
+!!!Because the backend is not working the web cannot be fully used!!!
+live demo: https://main--melodious-genie-0706de.netlify.app/
